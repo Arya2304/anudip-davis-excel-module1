@@ -1,4 +1,4 @@
-# anudip-davis-excel-module1
+# Excel Project
 
 ## Overview
 This project analyzes **Amazon sales data using Microsoft Excel** to extract useful business insights from the dataset.  
